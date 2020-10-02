@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "app.js"
+  }
   "name": "nodejs-helloworld",
   "version": "1.0.0",
   "description": "Hello World!",
